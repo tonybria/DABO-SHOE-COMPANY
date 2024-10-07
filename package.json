@@ -1,0 +1,21 @@
+{
+  "name": "personal project",
+  "version": "1.0.0",
+  "description": "Shoe Company Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonybria/DABO-SHOE-COMPANY.git"
+  },
+  "keywords": [],
+  "author": "Tony Brian Kiptole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonybria/DABO-SHOE-COMPANY/issues"
+  },
+  "homepage": "https://github.com/tonybria/DABO-SHOE-COMPANY#readme"
+}
